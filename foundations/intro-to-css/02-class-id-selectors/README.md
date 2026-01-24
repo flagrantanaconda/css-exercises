@@ -23,3 +23,7 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+
+### Reflection 
+Done to a satisfactory degree. Had some weirdness with the font list but got it fixed. Need to play around with classes more to be fuly fluent but getting there
