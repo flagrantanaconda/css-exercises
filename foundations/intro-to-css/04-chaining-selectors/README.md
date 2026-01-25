@@ -19,3 +19,6 @@ The properties you need to add to each element are:
 - Did you properly chain class selectors for each rule?
 - Does the `proportioned` image retain its original square proportions?
 - Does the `distorted` image end up looking squished and, well, distorted?
+
+###
+All self check criteria correct. CSS Identical apart from order of width an height. No HTML edits made
