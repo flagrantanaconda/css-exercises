@@ -1,0 +1,3 @@
+Got the main parts flex but failed to inlude teh padding and gap elements. 
+
+Reveiw how padding margin and flex (gap) interact 
